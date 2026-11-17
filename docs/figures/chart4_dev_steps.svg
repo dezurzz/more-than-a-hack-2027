@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 80 900 275" width="900" height="275" font-family="Arial, Helvetica, sans-serif">
+<rect y="80" width="900" height="275" fill="#FFFFFF"/>
+
+<rect x="40" y="105" width="12" height="12" rx="2" fill="#B3B9C2"/>
+<text x="58" y="116" font-size="13" fill="#1F2329" text-anchor="start" font-weight="400">Before</text>
+<rect x="127.2" y="105" width="12" height="12" rx="2" fill="#051C2C"/>
+<text x="145.2" y="116" font-size="13" fill="#1F2329" text-anchor="start" font-weight="400">After</text>
+<text x="40" y="166" font-size="14" fill="#1F2329" text-anchor="start" font-weight="700">Final selection step</text>
+<text x="40" y="185" font-size="12.5" fill="#5B6470" text-anchor="start" font-weight="400">tested once on PFF games 0–31</text>
+<text x="40" y="206" font-size="13" fill="#051C2C" text-anchor="start" font-weight="700">+0.0336, better in 32 of 32 games</text>
+<text x="440" y="169" font-size="12.5" fill="#1F2329" text-anchor="end" font-weight="400">Previous final model</text>
+<rect x="450" y="150" width="305.0" height="28" fill="#B3B9C2"/>
+<text x="763.01" y="169" font-size="13" fill="#1F2329" text-anchor="start" font-weight="400">0.6778</text>
+<text x="440" y="202" font-size="12.5" fill="#1F2329" text-anchor="end" font-weight="400">Submitted model</text>
+<rect x="450" y="183" width="320.1" height="28" fill="#051C2C"/>
+<text x="778.13" y="202" font-size="13" fill="#1F2329" text-anchor="start" font-weight="700">0.7114</text>
+<text x="40" y="286" font-size="14" fill="#1F2329" text-anchor="start" font-weight="700">Adding PFF to model B</text>
+<text x="40" y="305" font-size="12.5" fill="#5B6470" text-anchor="start" font-weight="400">tested on unseen SkillCorner</text>
+<text x="40" y="326" font-size="13" fill="#051C2C" text-anchor="start" font-weight="700">+0.059, better in 20 of 20 matches</text>
+<text x="440" y="289" font-size="12.5" fill="#1F2329" text-anchor="end" font-weight="400">Without PFF</text>
+<rect x="450" y="270" width="205.7" height="28" fill="#B3B9C2"/>
+<text x="663.65" y="289" font-size="13" fill="#1F2329" text-anchor="start" font-weight="400">0.457</text>
+<text x="440" y="322" font-size="12.5" fill="#1F2329" text-anchor="end" font-weight="400">With PFF</text>
+<rect x="450" y="303" width="232.2" height="28" fill="#051C2C"/>
+<text x="690.2" y="322" font-size="13" fill="#1F2329" text-anchor="start" font-weight="700">0.516</text>
+<line x1="450" y1="140" x2="450" y2="346" stroke="#1F2329" stroke-width="1"/>
+</svg>

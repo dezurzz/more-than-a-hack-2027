@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 80 900 245" width="900" height="245" font-family="Arial, Helvetica, sans-serif">
+<rect y="80" width="900" height="245" fill="#FFFFFF"/>
+
+<rect x="40" y="105" width="12" height="12" rx="2" fill="#B3B9C2"/>
+<text x="58" y="116" font-size="13" fill="#1F2329" text-anchor="start" font-weight="400">IDSSE / DFL (stadium camera)</text>
+<rect x="285.6" y="105" width="12" height="12" rx="2" fill="#8B939E"/>
+<text x="303.6" y="116" font-size="13" fill="#1F2329" text-anchor="start" font-weight="400">SkillCorner (broadcast)</text>
+<rect x="495.20000000000005" y="105" width="12" height="12" rx="2" fill="#051C2C"/>
+<text x="513.2" y="116" font-size="13" fill="#1F2329" text-anchor="start" font-weight="400">PFF FC World Cup 2022 (broadcast)</text>
+<text x="40" y="188" font-size="14" fill="#1F2329" text-anchor="start" font-weight="700">Model A</text>
+<rect x="150.0" y="160" width="66.8" height="44" fill="#B3B9C2"/>
+<text x="183.41" y="187" font-size="12.5" fill="#1F2329" text-anchor="middle" font-weight="400">11.1 h</text>
+<rect x="218.8" y="160" width="201.4" height="44" fill="#8B939E"/>
+<text x="319.5" y="187" font-size="12.5" fill="#FFFFFF" text-anchor="middle" font-weight="400">32.8 h</text>
+<rect x="422.2" y="160" width="333.1" height="44" fill="#051C2C"/>
+<text x="588.7349999999999" y="187" font-size="12.5" fill="#FFFFFF" text-anchor="middle" font-weight="700">PFF games 0–31 · ≈54 h</text>
+<text x="767.29" y="187" font-size="14" fill="#1F2329" text-anchor="start" font-weight="700">≈ 98 h</text>
+<text x="40" y="278" font-size="14" fill="#1F2329" text-anchor="start" font-weight="700">Model B</text>
+<rect x="150.0" y="250" width="66.8" height="44" fill="#B3B9C2"/>
+<text x="183.41" y="277" font-size="12.5" fill="#1F2329" text-anchor="middle" font-weight="400">11.1 h</text>
+<rect x="218.8" y="250" width="201.4" height="44" fill="#8B939E"/>
+<text x="319.5" y="277" font-size="12.5" fill="#FFFFFF" text-anchor="middle" font-weight="400">32.8 h</text>
+<rect x="422.2" y="250" width="333.1" height="44" fill="#051C2C"/>
+<text x="588.7349999999999" y="277" font-size="12.5" fill="#FFFFFF" text-anchor="middle" font-weight="700">PFF games 32–63 · ≈54 h</text>
+<text x="767.29" y="277" font-size="14" fill="#1F2329" text-anchor="start" font-weight="700">≈ 98 h</text>
+</svg>

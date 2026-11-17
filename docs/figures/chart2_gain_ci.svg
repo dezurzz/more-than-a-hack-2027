@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 80 900 320" width="900" height="320" font-family="Arial, Helvetica, sans-serif">
+<rect y="80" width="900" height="320" fill="#FFFFFF"/>
+
+<text x="40" y="155" font-size="14" fill="#1F2329" text-anchor="start" font-weight="700">IDSSE</text>
+<line x1="249.5" y1="150" x2="397.2" y2="150" stroke="#8B939E" stroke-width="3" stroke-linecap="round"/>
+<circle cx="330.8" cy="150" r="7" fill="#8B939E" stroke="#fff" stroke-width="2"/>
+<text x="411.2307692307692" y="155" font-size="13" fill="#1F2329" text-anchor="start" font-weight="400"><tspan font-weight="700">+0.005</tspan>  [-0.006, +0.014]</text>
+<text x="40" y="230" font-size="14" fill="#1F2329" text-anchor="start" font-weight="700">SkillCorner</text>
+<line x1="345.5" y1="225" x2="434.2" y2="225" stroke="#051C2C" stroke-width="3" stroke-linecap="round"/>
+<circle cx="389.8" cy="225" r="7" fill="#051C2C" stroke="#fff" stroke-width="2"/>
+<text x="448.15384615384613" y="230" font-size="13" fill="#1F2329" text-anchor="start" font-weight="400"><tspan font-weight="700">+0.013</tspan>  [+0.007, +0.019]</text>
+<text x="40" y="305" font-size="14" fill="#1F2329" text-anchor="start" font-weight="700">PFF games 32–63</text>
+<line x1="567.1" y1="300" x2="655.7" y2="300" stroke="#051C2C" stroke-width="3" stroke-linecap="round"/>
+<circle cx="611.4" cy="300" r="7" fill="#051C2C" stroke="#fff" stroke-width="2"/>
+<text x="669.6923076923076" y="305" font-size="13" fill="#1F2329" text-anchor="start" font-weight="400"><tspan font-weight="700">+0.043</tspan>  [+0.037, +0.049]</text>
+<text x="411.2307692307692" y="174" font-size="12" fill="#5B6470" text-anchor="start" font-weight="400">interval includes zero: no clear gain</text>
+<line x1="293.8" y1="118" x2="293.8" y2="335" stroke="#1F2329" stroke-width="1"/>
+<line x1="220.0" y1="335" x2="220.0" y2="341" stroke="#5B6470"/>
+<text x="220.0" y="358" font-size="12" fill="#5B6470" text-anchor="middle" font-weight="400">-0.01</text>
+<line x1="293.8" y1="335" x2="293.8" y2="341" stroke="#5B6470"/>
+<text x="293.84615384615387" y="358" font-size="12" fill="#5B6470" text-anchor="middle" font-weight="400">0</text>
+<line x1="367.7" y1="335" x2="367.7" y2="341" stroke="#5B6470"/>
+<text x="367.69230769230774" y="358" font-size="12" fill="#5B6470" text-anchor="middle" font-weight="400">+0.01</text>
+<line x1="441.5" y1="335" x2="441.5" y2="341" stroke="#5B6470"/>
+<text x="441.53846153846155" y="358" font-size="12" fill="#5B6470" text-anchor="middle" font-weight="400">+0.02</text>
+<line x1="515.4" y1="335" x2="515.4" y2="341" stroke="#5B6470"/>
+<text x="515.3846153846155" y="358" font-size="12" fill="#5B6470" text-anchor="middle" font-weight="400">+0.03</text>
+<line x1="589.2" y1="335" x2="589.2" y2="341" stroke="#5B6470"/>
+<text x="589.2307692307693" y="358" font-size="12" fill="#5B6470" text-anchor="middle" font-weight="400">+0.04</text>
+<line x1="663.1" y1="335" x2="663.1" y2="341" stroke="#5B6470"/>
+<text x="663.0769230769231" y="358" font-size="12" fill="#5B6470" text-anchor="middle" font-weight="400">+0.05</text>
+<text x="460.0" y="380" font-size="12.5" fill="#5B6470" text-anchor="middle" font-weight="400">spellF1 gain of the equal mean over model A</text>
+</svg>

@@ -1,0 +1,55 @@
+{
+  "estimates": {
+    "BALL_MISSING": 0.4057,
+    "SHARE_ON_DEAD": 0.9216,
+    "LIVE_GAP_MEDIAN_S": 7.32,
+    "LIVE_GAP_SIGMA": 0.2944,
+    "SHORT_DROPS_PER_MIN": 0.2547,
+    "BALL_JITTER": 0.034,
+    "PLAYER_JITTER": 0.0,
+    "PLAYER_DROPS_PER_MIN": 0.4248,
+    "PLAYER_DROP_MAX_S": 18.9743
+  },
+  "ranges": {
+    "BALL_MISSING": [
+      0.284,
+      0.527
+    ],
+    "SHARE_ON_DEAD": [
+      0.645,
+      1.0
+    ],
+    "LIVE_GAP_MEDIAN_S": [
+      5.0,
+      10.32
+    ],
+    "LIVE_GAP_SIGMA": [
+      0.1,
+      0.494
+    ],
+    "SHORT_DROPS_PER_MIN": [
+      0.0,
+      2.255
+    ],
+    "BALL_JITTER": [
+      0.0,
+      0.184
+    ],
+    "PLAYER_JITTER": [
+      0.0,
+      0.1
+    ],
+    "PLAYER_DROPS_PER_MIN": [
+      0.0,
+      0.925
+    ],
+    "PLAYER_DROP_MAX_S": [
+      13.282,
+      24.667
+    ]
+  },
+  "flagged_features": [
+    "h_seen",
+    "a_seen"
+  ]
+}

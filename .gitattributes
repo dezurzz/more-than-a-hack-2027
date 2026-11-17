@@ -1,0 +1,3 @@
+# Line endings fixed here rather than left to each machine's core.autocrlf.
+# Hook scripts run under sh, which breaks on CRLF.
+tools/hooks/* text eol=lf
